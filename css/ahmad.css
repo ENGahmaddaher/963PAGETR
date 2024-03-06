@@ -1034,6 +1034,13 @@ a {
   position: relative;
   z-index: 4;
   overflow: hidden;
+  
+}
+@media(max-width:768px){
+  .work .container .holder .works {
+    margin-top:10px;
+  }
+
 }
 .work .container .holder .works h3 {
   margin: 0;
